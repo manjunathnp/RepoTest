@@ -1,1 +1,1 @@
-Test A3
+Test A3 - v1.0
